@@ -1,0 +1,9 @@
+Sudoku Game with SFML
+
+A Sudoku game I developed during the summer using **SFML** for the graphical interface.
+
+Features:
+- Interactive 9x9 Sudoku board  
+- Mouse input for number selection  
+- Real-time error highlighting  
+- Clean and user-friendly design
